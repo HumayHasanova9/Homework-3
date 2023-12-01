@@ -1,0 +1,15 @@
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.exe
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.deps.json
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.dll
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\bin\Debug\net5.0\Home-work-3.pdb
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.dll
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\refint\Home-work-3.dll
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.pdb
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\Home-work-3.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Home-work-3\Home-work-3\obj\Debug\net5.0\ref\Home-work-3.dll
